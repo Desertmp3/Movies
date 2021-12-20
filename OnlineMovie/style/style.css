@@ -1,0 +1,52 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+body{
+    background: #162b4a;
+}
+.bg-color{
+    background: #13131a6b;
+}
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.max{
+    height: 210px;
+}
+.card{
+    border: 1px solid rgb(22 43 74);
+}
+
+.btn-primary{
+    color: #fff;
+    background-color: #162b4a;
+    border-color: #13131a6b;
+}
+.rage{
+    border: 1px solid #13131a6b;
+    border-radius: 2px;
+    padding: 3px;
+    margin-right: 5px;
+}
+.film-genre{
+    font-size: 13px;
+}
+.film-name{
+    display: block;
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.card-body-info{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: flex-start;
+}

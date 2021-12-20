@@ -1,0 +1,10 @@
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+.rage{
+    border: 1px solid #0000006b;
+    border-radius: 2px;
+    padding: 3px;
+    margin-right: 5px;
+}
